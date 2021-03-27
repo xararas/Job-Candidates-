@@ -1,6 +1,3 @@
-//package com.bham.pij.assignments.candidates;
-
-//Charalampos 2165173
 
 import java.io.BufferedReader;
 import java.util.ArrayList;
