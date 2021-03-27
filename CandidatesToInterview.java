@@ -20,7 +20,6 @@ public class CandidatesToInterview
 	
 	List<List<String>> list = Arrays.asList();
 
-
 	public void findCandidates()
 	{
 
